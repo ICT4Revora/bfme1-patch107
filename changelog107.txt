@@ -1,0 +1,35 @@
+=====================================================
+=====================================================
+~~~ T3A: SERVER STATISTICS PATCH 1.07 - CHANGELOG ~~~
+=====================================================
+=====================================================
+Statistics Release T3A 1.07 - August/September 2014
+
+---------------------
+NEW FEATURES
+---------------------
+
+- Statistics enabled - Your played games are now tracked on your profile **SERVER ONLY FEATURE**
+  All your played custom games will now count towards your statistics, and progress will be shown in the chat and on the profile tab
+
+---------------------
+GENERAL IMPROVEMENTS
+---------------------
+
+- Patch 1.05 is no longer required to install the game, all you need now is Patch 1.03 and the T3A Client which includes the installer for Patch 1.061
+- Salute voices tweaked for Saruman and Lurtz
+- Rohirrim and Rohirrim Archers now both have their old salute voices back
+- Re-enabled the intro video (skip with ESC)
+
+---------------------
+BUG FIXES
+---------------------
+
+- Disconnect message has been fixed; it will now display correctly (English version only)
+
+---------------------
+CREDITS & THANKS
+---------------------
+
+T3A/C&C:Online Staff for statistics
+T3A Staff for patch production
