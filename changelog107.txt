@@ -26,6 +26,7 @@ BUG FIXES
 ---------------------
 
 - Disconnect message has been fixed; it will now display correctly (English version only)
+- Gondor Soldier/Ranger combos can now receive the banner carrier upgrade
 
 ---------------------
 CREDITS & THANKS
